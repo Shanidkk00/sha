@@ -52,7 +52,7 @@
 `PaulWalker_TG`
 
 ## Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT"> <img src="https://telegra.ph/file/a61f824573cd189934362.jpg" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Shanidkk00/TeamFluffyRoBOT"> <img src="https://telegra.ph/file/a61f824573cd189934362.jpg" width="200""/></a></p>
 
 <details><summary>Deploy To VPS</summary>
 <p>
