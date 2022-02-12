@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT",
-    "repository": "https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT",
+    "repository": "https://github.com/Shanidkk00/TeamFluffyRoBOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
